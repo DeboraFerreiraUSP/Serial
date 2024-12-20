@@ -19,3 +19,5 @@ tests:
       regex:
         - "Toggled led0; counter=(.*)"
         - "Toggled led1; counter=(.*)"
+
+	Não contém vírus.www.avast.com
